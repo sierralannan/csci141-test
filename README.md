@@ -13,11 +13,11 @@ print("Hello World!")
 ```
 
 Python Units
-*Seq execution
-*Variable
-*Conditions
+* Seq execution
+* Variable
+* Conditions
 
 Python Units
-*Seq execution
-*Variable
-*Conditions
+* Seq execution
+* Variable
+* Conditions
